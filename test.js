@@ -1,3 +1,8 @@
+const rl = require('readline').createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
 const t1 = performance.now();
 
 class GitTest{
