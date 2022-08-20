@@ -1,5 +1,3 @@
-123456
-
 const t1 = performance.now();
 
 class GitTest{
@@ -13,6 +11,7 @@ const test = new GitTest(add, name);
 
 console.log(test);
 
+console.log("Hello World!!");
 
 const t2 = performance.now();
 console.log(t2-t1);
