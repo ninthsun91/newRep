@@ -5,4 +5,4 @@ edit
 END
 
 
-branch1
+conflict resolved
