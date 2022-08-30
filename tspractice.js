@@ -6,4 +6,8 @@ function showName() {
 const a = showName.bind(Sam);
 a();
 
+
+// conflict b1
+
 // edit test branch
+
